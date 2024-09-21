@@ -1,5 +1,5 @@
-//Parthkumar Patel
-//101399114
+//Karm Patel
+//101410114
 
 //1.Capitalize First Letter of all the words in string
 function capitalizeFirstLetter(str){
